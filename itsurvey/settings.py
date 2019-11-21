@@ -26,7 +26,7 @@ SECRET_KEY = '7mn#@i*l680s2ccv5xsgwk=hujo-v#-^j!i^o&^8^3lo)=sv_8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://questions-teckne.herokuapp.com]
 
 
 # Application definition
