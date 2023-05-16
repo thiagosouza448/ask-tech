@@ -1,15 +1,15 @@
 Django
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 gunicorn
 heroku==0.1.4
 idna==2.8
-openpyxl
+openpyxlx
 python-dateutil==1.5
 pytz==2019.3
 requests==2.22.0
-sqlparse==0.3.0
-urllib3==1.25.7
+sqlparse==0.4.4
+urllib3==1.26.5
 et-xmlfile
 jdcal
 # pkg-resources
