@@ -18,3 +18,4 @@ django-heroku
 mysqlclient==1.4.2
 psycopg2==2.7.7
 whitenoise==4.1.2
+pandas
